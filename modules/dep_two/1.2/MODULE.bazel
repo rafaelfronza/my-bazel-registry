@@ -1,0 +1,5 @@
+module(
+    name = "dep_two",
+    version = "1.2",
+    compatibility_level = 1,
+)
