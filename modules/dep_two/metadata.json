@@ -1,0 +1,13 @@
+{
+    "homepage": "https://my_bazel_registry",
+    "maintainers": [
+        {
+            "email": "no-email@email.com",
+            "name": "The NO EMAIL Team"
+        }
+    ],
+    "versions": [
+        "1.2"
+    ],
+    "yanked_versions": {}
+}
