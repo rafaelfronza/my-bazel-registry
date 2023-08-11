@@ -1,4 +1,6 @@
 {
     "integrity": "sha256-JvKd4Ovbr6XSLhFfo7hM3eqUjAiquTV0K80U2S3SzDY=",
-    "url": "https://github.com/rafaelfronza/my_libs_bazel/archive/refs/tags/v1.0.tar.gz"
+    "url": "https://github.com/rafaelfronza/my_libs_bazel/archive/refs/tags/v1.0.tar.gz",
+    "strip_prefix": "dep_two",
+    "patch_strip": 0
 }
